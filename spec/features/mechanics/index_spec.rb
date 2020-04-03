@@ -22,6 +22,5 @@ RSpec.describe "When I visit the Mechanics index page" do
       expect(page).to have_content("Name: #{mechanic_3.name}")
       expect(page).to have_content("#{mechanic_3.years_experience} years of experience")
     end
-    save_and_open_page
   end
 end

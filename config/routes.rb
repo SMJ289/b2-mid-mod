@@ -1,7 +1,7 @@
 Rails.application.routes.draw do
 
 get '/mechanics', to: 'mechanics#index'
-# get '/mechanics/new', to: 'mechanics#new'
-# post '/mechanics', to: 'mechanics#create'
+
+get '/amusement_parks/:park_id', to: 'amusement_parks#show'
 
 end

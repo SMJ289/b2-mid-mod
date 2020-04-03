@@ -208,7 +208,7 @@
           null,
           1,
           null,
-          null,
+          1,
           null,
           null
         ]
@@ -219,14 +219,101 @@
           null
         ]
       },
-      "/Users/steve/turing/2module/classwork/b2-mid-mod/app/models/mechanic.rb": {
+      "/Users/steve/turing/2module/classwork/b2-mid-mod/spec/features/mechanics/index_spec.rb": {
         "lines": [
           1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
           null,
           null
         ]
       },
+      "/Users/steve/turing/2module/classwork/b2-mid-mod/spec/models/amusement_park_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          2,
+          null,
+          null
+        ]
+      },
+      "/Users/steve/turing/2module/classwork/b2-mid-mod/app/models/amusement_park.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
+      },
       "/Users/steve/turing/2module/classwork/b2-mid-mod/app/models/application_record.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/steve/turing/2module/classwork/b2-mid-mod/spec/models/ride_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          2,
+          null,
+          null
+        ]
+      },
+      "/Users/steve/turing/2module/classwork/b2-mid-mod/app/models/ride.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/steve/turing/2module/classwork/b2-mid-mod/app/controllers/amusement_parks_controller.rb": {
+        "lines": [
+          1,
+          1,
+          2,
+          null,
+          null,
+          1,
+          1,
+          0,
+          null,
+          null
+        ]
+      },
+      "/Users/steve/turing/2module/classwork/b2-mid-mod/app/controllers/application_controller.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/steve/turing/2module/classwork/b2-mid-mod/app/models/mechanic.rb": {
         "lines": [
           1,
           1,
@@ -254,15 +341,8 @@
           null,
           null
         ]
-      },
-      "/Users/steve/turing/2module/classwork/b2-mid-mod/app/controllers/application_controller.rb": {
-        "lines": [
-          1,
-          1,
-          null
-        ]
       }
     },
-    "timestamp": 1585929839
+    "timestamp": 1585933766
   }
 }
