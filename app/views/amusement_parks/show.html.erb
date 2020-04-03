@@ -1,8 +1,9 @@
 <h1>Hershey Park</h1>
 <p>Admissions: <%= @amusement_park.admission_price %></p>
 <p>Rides:</p>
-<% @amusement_park.rides.each do |ride| %>
+<% @amusement_park.rides.sort_by(&:name).each do |ride| %>
   <ol>
     <li><%=ride.name%></li>
   </ol>
 <% end %>
+<p>Average Thrill Rating of Rides: <%=@amusement_park.average_thrill_rating%>/10 </p>
